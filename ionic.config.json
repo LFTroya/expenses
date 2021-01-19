@@ -1,0 +1,8 @@
+{
+  "name": "expenses",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "291c61ff"
+}
